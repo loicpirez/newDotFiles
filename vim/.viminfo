@@ -1,0 +1,816 @@
+# Ce fichier viminfo a été généré par Vim 8.0.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Dernier motif de recherche  :
+~MSle0~/configure
+
+# Dernier motif de recherche Substitue  :
+~MSle0&Hello
+
+# Dernières chaînes de substitution :
+$pbrain-bigshaq
+
+# Historique ligne de commande (chronologie décroissante) :
+:q!
+|2,0,1513004591,,"q!"
+:wq!
+|2,0,1513004575,,"wq!"
+:clan
+|2,0,1513004237,,"clan"
+:NeoCompleteEnable
+|2,0,1513004198,,"NeoCompleteEnable"
+:w
+|2,0,1512999618,,"w"
+:q
+|2,0,1512954367,,"q"
+:%s/Hello/pbrain-bigshaq
+|2,0,1512926574,,"%s/Hello/pbrain-bigshaq"
+:help iccf
+|2,0,1512887885,,"help iccf"
+:VimShell
+|2,0,1512887814,,"VimShell"
+:help vimproc
+|2,0,1512887664,,"help vimproc"
+:qa
+|2,0,1512887623,,"qa"
+:'<,'>q!
+|2,0,1512887622,,"'<,'>q!"
+:shell
+|2,0,1512887281,,"shell"
+:%s/URxvt/urxvt/g
+|2,0,1512887595,,"%s/URxvt/urxvt/g"
+:VundleInstall
+|2,0,1512887489,,"VundleInstall"
+:VimIn
+|2,0,1512887486,,"VimIn"
+:s
+|2,0,1512885269,,"s"
+:NERDTree
+|2,0,1512885153,,"NERDTree"
+:n
+|2,0,1512885050,,"n"
+:prev
+|2,0,1512885048,,"prev"
+:p
+|2,0,1512885046,,"p"
+:PluginInstall
+|2,0,1512885014,,"PluginInstall"
+:wq
+|2,0,1512885094,,"wq"
+:Plugin install
+|2,0,1512884955,,"Plugin install"
+:n test.pl
+|2,0,1512884792,,"n test.pl"
+:set laststatus=2
+|2,0,1512883256,,"set laststatus=2"
+:AirlineToggle
+|2,0,1512883234,,"AirlineToggle"
+:syntax on
+|2,0,1512882939,,"syntax on"
+:syntax
+|2,0,1512882921,,"syntax"
+:synt
+|2,0,1512882918,,"synt"
+:q:
+|2,0,1512882454,,"q:"
+:CommandT
+|2,0,1512882108,,"CommandT"
+:wq:
+|2,0,1512881506,,"wq:"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+?/configure
+|2,1,1512949328,47,"configure"
+? Hello
+|2,1,1512926574,,"Hello"
+? URxvt
+|2,1,1512887595,,"URxvt"
+? @$
+|2,1,1512884858,,"@$"
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+"0	CHAR	0
+	m
+|3,0,0,0,1,0,1512887649,"m"
+"1	LINE	0
+	let g:neocomplete#force_omni_input_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)\w*'
+	let g:neocomplete#force_omni_input_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\w*\|\h\w*::\w*'
+|3,0,1,1,2,0,1513004505,"let g:neocomplete#force_omni_input_patterns.c = '[^.[:digit:] *\\t]\\%(\\.\\|->\\)\\w*'","let g:neocomplete#force_omni_input_patterns.cpp = '[^.[:digit:] *\\t]\\%(\\.\\|->\\)\\w*\\|\\h\\w*::\\w*'"
+"2	LINE	0
+	" for c and c++
+	let g:neocomplete#force_omni_input_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)\w*'
+|3,0,2,1,2,0,1513004492,"\" for c and c++","let g:neocomplete#force_omni_input_patterns.c = '[^.[:digit:] *\\t]\\%(\\.\\|->\\)\\w*'"
+"3	LINE	0
+	let g:clang_auto = 1
+	let g:clang_c_options = '-std=gnu11'
+|3,0,3,1,2,0,1513004303,"let g:clang_auto = 1","let g:clang_c_options = '-std=gnu11'"
+"4	CHAR	0
+	
+	" Use large font by default in MacVim
+	set gfn=Monaco:h19
+	
+	
+|3,0,4,0,5,0,1512883420,"","\" Use large font by default in MacVim","set gfn=Monaco:h19","",""
+"5	LINE	0
+	try
+	  colorscheme wombat256mod
+	catch
+	endtry
+|3,0,5,1,4,0,1512881879,"try","  colorscheme wombat256mod","catch","endtry"
+"6	LINE	0
+	let g:airline_symbols.space = "\ua0"
+	" }}}
+|3,0,6,1,2,0,1512881226,"let g:airline_symbols.space = \"\\ua0\"","\" }}}"
+"7	LINE	0
+	
+	let g:airline_powerline_fonts = 1
+|3,0,7,1,2,0,1512881224,"","let g:airline_powerline_fonts = 1"
+"8	LINE	0
+	endif
+|3,0,8,1,1,0,1512881223,"endif"
+"9	LINE	0
+	  let g:airline_symbols = {}
+|3,0,9,1,1,0,1512881223,"  let g:airline_symbols = {}"
+""-	CHAR	0
+	+
+|3,1,36,0,1,0,1513004510,"+"
+
+# Marques dans le fichier :
+'0  1  0  .vim/config/autocomplete.vim
+|4,48,1,0,1513004591,".vim/config/autocomplete.vim"
+'1  1  12  ~/test.c
+|4,49,1,12,1513004581,"~/test.c"
+'2  78  19  ~/.vim/config/autocomplete.vim
+|4,50,78,19,1513004575,"~/.vim/config/autocomplete.vim"
+'3  1  0  ~/test.c
+|4,51,1,0,1513004556,"~/test.c"
+'4  83  28  ~/.vim/config/autocomplete.vim
+|4,52,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+'5  83  28  ~/.vim/config/autocomplete.vim
+|4,53,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+'6  1  4  ~/test.c
+|4,54,1,4,1513004533,"~/test.c"
+'7  1  4  ~/test.c
+|4,55,1,4,1513004533,"~/test.c"
+'8  83  24  ~/.vim/config/autocomplete.vim
+|4,56,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+'9  83  24  ~/.vim/config/autocomplete.vim
+|4,57,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+
+# Liste de sauts (le plus récent en premier) :
+-'  1  0  .vim/config/autocomplete.vim
+|4,39,1,0,1513004591,".vim/config/autocomplete.vim"
+-'  1  12  ~/test.c
+|4,39,1,12,1513004581,"~/test.c"
+-'  1  12  ~/test.c
+|4,39,1,12,1513004581,"~/test.c"
+-'  78  19  ~/.vim/config/autocomplete.vim
+|4,39,78,19,1513004575,"~/.vim/config/autocomplete.vim"
+-'  78  19  ~/.vim/config/autocomplete.vim
+|4,39,78,19,1513004575,"~/.vim/config/autocomplete.vim"
+-'  78  19  ~/.vim/config/autocomplete.vim
+|4,39,78,19,1513004575,"~/.vim/config/autocomplete.vim"
+-'  78  19  ~/.vim/config/autocomplete.vim
+|4,39,78,19,1513004575,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004558,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004558,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004558,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004558,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/test.c
+|4,39,1,0,1513004556,"~/test.c"
+-'  1  0  ~/test.c
+|4,39,1,0,1513004556,"~/test.c"
+-'  1  0  ~/test.c
+|4,39,1,0,1513004556,"~/test.c"
+-'  1  0  ~/test.c
+|4,39,1,0,1513004556,"~/test.c"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  83  28  ~/.vim/config/autocomplete.vim
+|4,39,83,28,1513004546,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004537,"~/.vim/config/autocomplete.vim"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  1  4  ~/test.c
+|4,39,1,4,1513004533,"~/test.c"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  83  24  ~/.vim/config/autocomplete.vim
+|4,39,83,24,1513004525,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  88  5  ~/.vim/config/autocomplete.vim
+|4,39,88,5,1513004496,"~/.vim/config/autocomplete.vim"
+-'  89  0  ~/.vim/config/autocomplete.vim
+|4,39,89,0,1513004496,"~/.vim/config/autocomplete.vim"
+-'  1  0  ~/.vim/config/autocomplete.vim
+|4,39,1,0,1513004496,"~/.vim/config/autocomplete.vim"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> .vim/config/autocomplete.vim
+	*	1513004590	0
+	"	1	0
+
+> ~/test.c
+	*	1513004580	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	4	1
+	+	1	16
+	+	4	0
+	+	2	0
+	+	1	17
+	+	4	6
+	+	1	18
+	+	5	0
+	+	4	2
+	+	1	12
+
+> ~/.vim/config/autocomplete.vim
+	*	1513004575	0
+	"	78	19
+	^	78	20
+	.	78	19
+	+	1	75
+	+	71	76
+	+	1	5
+	+	75	59
+	+	72	39
+	+	76	0
+	+	76	1
+	+	76	0
+	+	76	36
+	+	76	0
+	+	89	0
+	+	88	5
+	+	89	0
+	+	88	5
+	+	89	0
+	+	83	28
+	+	78	19
+
+> ~/.vim/test.c
+	*	1513004237	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	2	0
+	+	5	1
+	+	1	18
+	+	3	1
+	+	1	0
+
+> ~/.vim/test.
+	*	1513004130	0
+	"	1	0
+
+> /tmp/yaourt-tmp-loic/aur-vim-clang-complete-git/vim-clang-complete-git.install
+	*	1513003910	0
+	"	1	0
+
+> ~/test.hs
+	*	1513000697	0
+	"	1	6
+	^	1	7
+	.	1	7
+	+	3	5
+	+	1	16
+	+	3	3
+	+	1	7
+
+> ~/.vimrc
+	*	1513000157	0
+	"	1	0
+	^	6	37
+	.	6	36
+	+	1	0
+	+	1	22
+	+	175	5
+	+	1	24
+	+	120	11
+	+	1	32
+	+	48	0
+	+	45	0
+	+	1	27
+	+	3	28
+	+	4	22
+	+	1	25
+	+	5	28
+	+	6	36
+
+> ~/roms/roms
+	*	1512999619	0
+	"	50	0
+	^	52	5
+	.	52	5
+	+	47	75
+	+	1	16
+	+	2	9
+	+	3	9
+	+	4	15
+	+	5	9
+	+	6	14
+	+	7	5
+	+	6	5
+	+	7	5
+	+	8	12
+	+	9	15
+	+	10	8
+	+	11	16
+	+	12	10
+	+	13	13
+	+	14	12
+	+	15	16
+	+	16	5
+	+	15	14
+	+	18	9
+	+	19	10
+	+	20	13
+	+	21	6
+	+	21	0
+	+	22	15
+	+	23	20
+	+	24	17
+	+	25	10
+	+	26	14
+	+	27	12
+	+	28	5
+	+	29	13
+	+	30	9
+	+	31	12
+	+	32	10
+	+	33	16
+	+	34	5
+	+	35	9
+	+	36	5
+	+	41	5
+	+	41	0
+	+	36	14
+	+	37	10
+	+	38	9
+	+	39	12
+	+	40	5
+	+	41	15
+	+	42	8
+	+	43	11
+	+	44	6
+	+	43	10
+	+	45	5
+	+	44	12
+	+	46	5
+	+	47	18
+	+	48	9
+	+	49	18
+	+	50	9
+	+	51	9
+	+	52	5
+
+> /tmp/yaourt-tmp-loic/aur-ncurses5-compat-libs/PKGBUILD
+	*	1512949338	0
+	"	28	41
+	^	28	42
+	.	28	42
+	+	27	80
+	+	28	42
+
+> ~/.vim/test.hs
+	*	1512948431	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/Bureau/gomoku/CMakeLists.txt
+	*	1512926591	0
+	"	6	47
+	^	6	48
+	.	6	48
+	+	5	0
+	+	6	59
+	+	7	0
+	+	6	48
+
+> ~/.zshrc
+	*	1512925559	0
+	"	99	53
+	^	99	54
+	.	99	53
+	+	99	53
+
+> ~/.vim/config/misc.vim
+	*	1512888245	0
+	"	2	8
+	^	1	16
+	.	1	15
+	+	1	59
+	+	2	0
+	+	1	15
+
+> /usr/share/vim/vim80/doc/uganda.txt
+	*	1512887890	0
+	"	9	8
+
+> ~/[vimshell] - default
+	*	1512887839	0
+	"	30	14
+	^	30	15
+	.	30	15
+	+	1	11
+	+	1	12
+	+	3	65
+	+	4	14
+	+	5	0
+	+	30	15
+
+> ~/.vim/bundle/vimproc.vim/doc/vimproc.txt
+	*	1512887685	0
+	"	53	28
+
+> ~/.Xresources
+	*	1512887634	0
+	"	13	38
+	^	13	39
+	.	13	39
+	+	12	38
+	+	14	23
+	+	15	0
+	+	12	0
+	+	13	39
+
+> ~/.vim/config/NERD_tree_1
+	*	1512887606	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.xinitrc
+	*	1512887560	0
+	"	1	0
+
+> ~/NERD_tree_1
+	*	1512887556	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/.vim/config/package.vim
+	*	1512887505	0
+	"	1	0
+	^	1	27
+	.	1	26
+	+	5	0
+	+	1	26
+
+> ~/.vim/config/test.vim
+	*	1512887190	0
+	"	1	11
+	^	1	12
+	.	1	11
+	+	1	11
+
+> ~/.vim/config/test.html
+	*	1512887151	0
+	"	1	4
+	^	1	5
+	.	1	5
+	+	1	5
+
+> ~/.vim/config/test.rb
+	*	1512887144	0
+	"	1	0
+
+> ~/.vim/config/test
+	*	1512887117	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/test.rb
+	*	1512886899	0
+	"	1	8
+	^	1	9
+	.	1	8
+	+	1	8
+
+> ~/test
+	*	1512885116	0
+	"	28	1
+
+> ~/haskell-vim-now/install.sh
+	*	1512885098	0
+	"	14	2
+
+> ~/.vim/config/key.vim
+	*	1512885079	0
+	"	4	36
+	^	4	37
+	.	5	0
+	+	5	0
+
+> ~/haskell-vim-now/vimrc.haskell
+	*	1512885043	0
+	"	23	0
+
+> ~/haskell-vim-now/README.md
+	*	1512885043	0
+	"	1	0
+
+> ~/haskell-vim-now/Dockerfile
+	*	1512885026	0
+	"	3	0
+
+> ~/.vim/config/vundle.vim
+	*	1512885007	0
+	"	22	2
+	^	22	3
+	.	22	3
+	+	22	3
+
+> ~/test.pl
+	*	1512884816	0
+	"	1	0
+
+> ~/Téléchargements/types.hs
+	*	1512884607	0
+	"	1	20
+
+> ~/Téléchargements/main (1).hs
+	*	1512884313	0
+	"	45	0
+	.	41	25
+	+	41	25
+
+> ~/Téléchargements/parser.hs
+	*	1512884283	0
+	"	31	0
+
+> ~/.vim/config/test.c
+	*	1512883473	0
+	"	1	1
+	^	1	2
+	.	1	2
+	+	2	0
+	+	1	2
+
+> ~/.vim/config/ui.vim
+	*	1512883461	0
+	"	2	0
+	^	2	0
+	.	3	0
+	+	122	0
+	+	120	0
+	+	2	0
+	+	3	0
+
+> ~/.vim/config/ui
+	*	1512883338	0
+	"	23	0
+	^	140	11
+	.	140	11
+	+	1	6
+	+	1	24
+	+	134	5
+	+	1	0
+	+	142	0
+	+	137	16
+	+	141	0
+	+	135	0
+	+	136	20
+	+	140	11
+	+	141	43
+	+	140	11
+
+> ~/.vim/config/misc
+	*	1512883099	0
+	"	1	0
+
+> ~/.vim/colors/wombat256mod.vim
+	*	1512882624	0
+	"	36	0
+
+> ~/.config/vim/package
+	*	1512881634	0
+	"	2	38
+	^	2	39
+	.	3	0
+	+	2	39
+	+	3	0
+
+> ~/[Vundle] Installer
+	*	1512881548	0
+	"	8	0
+	.	1	0
+	+	1	0
+
+> ~/.vimr
+	*	1512881513	0
+	"	1	0
+
+> ~/.config/vim/vundle
+	*	1512881509	0
+	"	43	42
+	^	43	43
+	.	44	0
+	+	43	43
+	+	44	0
+
+> ~/compte
+	*	1512880703	0
+	"	3	937
+	^	3	938
+	.	3	937
+	+	1	2622
+	+	1	2540
+	+	1	2622
+	+	3	865
+	+	1	1732
+	+	1	1757
+	+	1	1798
+	+	3	0
+	+	3	865
+	+	1	11
+	+	3	865
+	+	3	937
+
+> ~/Piscine_C_bistromathique/shunting_yard/PSU_2015_my_printf/CPE_2015_BSQ/Makefile
+	*	1512880065	0
+	"	41	3
+
+> ~/Piscine_C_bistromathique/shunting_yard/PSU_2015_my_printf/src/my_printf.c
+	*	1512879972	0
+	"	27	22
+
+> ~/Piscine_C_bistromathique/shunting_yard/src/shunting_yard.c
+	*	1512879893	0
+	"	5	29

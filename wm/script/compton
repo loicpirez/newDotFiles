@@ -1,0 +1,3 @@
+#!/bin/bash
+
+compton -bcCG --use-ewmh-active-win --backend=glx --vsync opengl-swc

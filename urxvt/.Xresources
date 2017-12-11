@@ -1,0 +1,48 @@
+urxvt.foreground: white
+urxvt.font:             xft:Liberation Mono for Powerline:Regular:size=14,xft:PowerlineSymbols:Medium
+urxvt.boldFont:             xft:Liberation Mono for Powerline:Bold:size=14
+urxvt.letterSpace: -1
+urxvt.scrollBar: False
+urxvt*depth: 32
+urxvt*background: rgba:1500/1500/1500/ffff
+urxvt*internalBorder: 1
+urxvt*externalBorder: 1
+urxvt*scrollBar: false
+
+urxvt.perl-ext-common: default,matcher
+urxvt.urlLauncher: google-chrome-stable
+urxvt.matcher.button: 1
+
+Xft.hinting: true
+Xft.rgba: none
+Xft.hintstyle: hintfull
+Xft.lcdfilter: lcddefault
+
+XTerm*depth: 32
+XTerm*background: rgba:0000/0000/0200/c800
+XTerm*foreground: white
+XTerm*font:             xft:Liberation Mono for Powerline:Regular:size=15,xft:PowerlineSymbols:Medium
+XTerm*boldFont:             xft:Liberation Mono for Powerline:Bold:size=15
+XTerm*letterSpace: -1
+XTerm*faceName: Liberation Mono Powerline: antialias=true: hinting=true: size=15
+XTerm*locale: true
+XTerm*saveLines: 4096
+XTerm*internalBorder: 1
+XTerm*externalBorder: 1
+
+! do not scroll with output
+urxvt*scrollTtyOutput: false
+
+! scroll in relation to buffer (with mouse scroll or Shift+Page Up)
+urxvt*scrollWithBuffer: true
+
+! scroll back to the bottom on keypress
+urxvt*scrollTtyKeypress: true
+
+urxvt.keysym.Control-Up:   \033[1;5A
+urxvt.keysym.Control-Down:    \033[1;5B
+urxvt.keysym.Control-Left:    \033[1;5D
+urxvt.keysym.Control-Right:    \033[1;5C
+
+urxvt.cursorBlink: 1
+urxvt.cursorUnderline: 0
